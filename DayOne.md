@@ -7,4 +7,3 @@
 ## K8sGTP
 
 - [Github Repo](https://github.com/k8sgpt-ai)
-- [Documentation]()
