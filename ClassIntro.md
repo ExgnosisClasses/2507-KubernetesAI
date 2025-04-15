@@ -1,4 +1,4 @@
-# Introduction to the course\
+# Introduction to the course
 
 ## Class Logistics
 
