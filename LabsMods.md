@@ -21,3 +21,9 @@ The memory size of the VMs has been changed. The minikube command that you shoul
 minikube start --memory=5120
 ```
 
+To install the metrics package the holmes lab, execute
+
+```shell
+minikube addons enable metrics-server
+```
+
